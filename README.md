@@ -1,8 +1,6 @@
 # Costco Sales-Forecasting
 
-The project is implemented in Python.
-
-The project will run in Google colab. 
+This project is implemented in Python and will run in Google colab. 
 
 # Setting up project in google colab
 
