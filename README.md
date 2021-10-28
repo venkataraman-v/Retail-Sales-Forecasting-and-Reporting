@@ -1,4 +1,4 @@
-# Sales-Forecasting
+# Retail Sales-Forecasting
 
 This project is implemented in Python and will run in Google colab. 
 
